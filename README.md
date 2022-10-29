@@ -30,7 +30,7 @@ Check out the latest [API documentation](http://ethereum-php.org/dev/).
 
 
 ```sh
-composer require digitaldonkey/ethereum-php
+composer require jucci1887/ethereum-api-php
 ```
 
 This is the important part of [composer.json](https://github.com/digitaldonkey/ethereum/blob/8.x-1.x/composer.json) in [Drupal Ethereum Module](https://drupal.org/project/ethereum).
