@@ -79,7 +79,7 @@
                     "src/functions_include.php"
                 ],
                 "psr-4": {
-                    "Graze\\GuzzleHttp\\JsonRpc\\": "src"
+                    "Jucci1887\\GuzzleHttp\\JsonRpc\\": "src"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",

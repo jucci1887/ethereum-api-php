@@ -1,7 +1,7 @@
 <?php
 namespace Ethereum;
 
-use Graze\GuzzleHttp\JsonRpc\Client as RpcClient;
+use Jucci1887\GuzzleHttp\JsonRpc\Client as RpcClient;
 
 use Ethereum\DataType\EthDataType;
 use Exception;
